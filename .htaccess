@@ -1,0 +1,8 @@
+# Cache like a motherfucker
+ExpiresActive On
+ExpiresDefault "access plus 1 week"
+
+# Redirect HTTP to HTTPS
+RewriteEngine On
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
