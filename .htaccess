@@ -1,3 +1,28 @@
-# Cache like a motherfucker
-ExpiresActive On
-ExpiresDefault "access plus 1 week"
+<dd>
+                    <p>Use Gravatar to display user avatars images.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-gogs-webhook">Gogs Webhook</a></dt>
+                <dd>
+                    <p>Connect Gogs webhook events to Kanboard automatic actions.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-google-auth">Google Authentication</a></dt>
+                <dd>
+                    <p>Use Google as authentication provider.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-hipchat">Hipchat</a></dt>
+                <dd>
+                    <p>Receive individual or project notifications on Hipchat.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/juehv/kanboard-InstantActions">Instant Actions for Kanboard Tasks</a></dt>
+                <dd>
+                    <p>Add buttons to tasks in board view for edit, delete and close them.</p>
+                    <p><em>By Jens Heuschkel et. al.</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-jabber">Jabber</a></dt>
+                <dd>
+                    <p>Receive individual or project notifications on Jabber.</p>
+                    <p><em>By Frédéric Guillot</em></p>
