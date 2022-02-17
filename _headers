@@ -1,0 +1,4 @@
+/*
+	X-Content-Type-Options: nosniff
+	Content-Security-Policy: default-src 'none'; style-src 'sha256-549affca6f9ff286af8828751c11c2046cf1b4e65e7aecd1b2cc587e1edf91bc'; style-src-attr 'none'; frame-ancestors 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests; sandbox
+	Cache-Control: public; max-age=259200
